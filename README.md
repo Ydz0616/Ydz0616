@@ -2,9 +2,7 @@
 
 I build intelligence systems that help businesses operate smarter.
 
-🚀 Currently building an AI-native enterprise operations platform —
-   selected as a **winner** at the [SDx & Cadre AI OpenClaw Showcase](https://www.linkedin.com/feed/update/urn:li:activity:7434715387872710656/)
-   presenting as **"Personal Palantir"**
+🚀 Currently building an AI-native enterprise operations platform - OLA
 
 🏭 Previously embedded in manufacturing enterprises — interviewed everyone from
    CEOs to assembly-line workers, then delivered a production CRM/ERP system
