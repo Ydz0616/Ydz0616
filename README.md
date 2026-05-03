@@ -2,7 +2,7 @@
 
 I build intelligence systems that help businesses operate smarter.
 
-🚀 Currently building an AI-native enterprise operations platform - OLA
+🚀 Currently building Ola -- a agentic system dedicated for optimizing the lead-to-quote process in B2B sales
 
 🏭 Previously embedded in manufacturing enterprises — interviewed everyone from
    CEOs to assembly-line workers, then delivered a production CRM/ERP system
