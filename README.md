@@ -1,21 +1,9 @@
-### Hi, I'm Duke 👋
+### Hi, I'm Yuandong 👋
 
-I build intelligence systems that help businesses operate smarter.
+I'm chasing one question: how can AI agents deliver real, measurable value beyond code generation?
 
-🚀 Currently building Ola -- a agentic system dedicated for optimizing the lead-to-quote process in B2B sales
+It started at Duke and DKU — Duke Kunshan University, in Kunshan, China; if you haven't heard of it, it's worth a Google. That's where I earned my CS degree, cum laude. Now I'm at UCSD, leading a team that's building OLA, a multiplayer agent harness for small teams.
 
-🏭 Previously embedded in manufacturing enterprises — interviewed everyone from
-   CEOs to assembly-line workers, then delivered a production CRM/ERP system
-   serving 50+ clients over 5 months · [erp.olajob.cn](https://erp.olajob.cn)
+The people building it: DKU and Duke grads, genuinely brilliant — I love working with them.
 
-🎓 M.S. Computer Science @ UC San Diego | B.S. @ Duke '25
-
-📄 Published at [GRL](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119214), IJGIS, and [ACM MobiCom](https://dl.acm.org/doi/10.1145/3636534.3698856)
-
-**What I work with:**
-
-`Python` `TypeScript` `React` `Node.js` `FastAPI` `PostgreSQL` `MongoDB`
-`Kubernetes` `Docker` `ArgoCD` `PyTorch` `LLMs` `CI/CD`
-
-**Shipped & deployed:**
-🔗 [AI Operations Platform](https://ola.services) · [Enterprise CRM/ERP](https://erp.olajob.cn) · [Job Board](https://olajob.cn)
+Life's been good, and that's a fact.
