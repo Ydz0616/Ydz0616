@@ -1,9 +1,7 @@
-### Hi, I'm Yuandong 👋
+<p align="center">
+  <img src="ridge.svg" alt="Yuandong Zhang. 1184 commits drawn as ridgelines: one line per week from 2022 to 2026, left to right is the hour of day." width="840">
+</p>
 
-I'm chasing one question: how can AI agents deliver real, measurable value beyond code generation?
-
-It started at Duke and DKU — Duke Kunshan University, in Kunshan, China; if you haven't heard of it, it's worth a Google. That's where I earned my CS degree, cum laude. Now I'm at UCSD, leading a team that's building Stevin, a multiplayer agent.
-
-The people building it: DKU and Duke grads, genuinely brilliant — I love working with them.
-
-Life's been good, and that's a fact.
+<p align="center">
+  <sub><a href="https://ydz0616.github.io">ydz0616.github.io</a> · <a href="https://stevinhq.com">stevinhq.com</a></sub>
+</p>
